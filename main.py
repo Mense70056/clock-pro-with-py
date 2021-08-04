@@ -1,3 +1,4 @@
+import time 
 from tkinter import *
 from tkinter.ttk import *
 
