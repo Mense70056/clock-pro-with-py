@@ -16,4 +16,3 @@ label.pack(anchor= 'center')
 time()
 
 mainloop()
-#<>
